@@ -1,12 +1,18 @@
+import EstilosGlobais from "./assets/componentes/estilosGlobais"
+import styled from "styled-components"
+import NavBar from "./assets/componentes/navBar"
 
+const AppContainer = styled.div`
+  padding: 2% 10%;
+`
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
-    <>
-      
-    </>
+    <AppContainer>
+      <EstilosGlobais/>
+      <NavBar/>
+    </AppContainer>
   )
 }
 
