@@ -28,7 +28,7 @@ body {
     margin: 0;
     min-height: 100vh;
     width: 100%;
-    background-color: #2F4F4F;
+    background-color: #5d8d80;
     font-family: 'Roboto normal', sans-serif; /* Aqui você define a fonte padrão para o corpo do documento */
 }
 main {
