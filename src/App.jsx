@@ -2,6 +2,8 @@ import EstilosGlobais from "./assets/componentes/estilosGlobais"
 import styled from "styled-components"
 import NavBar from "./assets/componentes/navBar"
 import Inicio from "./assets/componentes/inicio"
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
+
 
 const AppContainer = styled.div`
     padding: 2% 10%;
@@ -15,11 +17,14 @@ const AppContainer = styled.div`
 function App() {
 
   return (
-    <AppContainer>
-      <EstilosGlobais/>
-      <NavBar/>
-      <Inicio/>
-    </AppContainer>
+    <BrowserRouter>
+      <AppContainer>
+        <EstilosGlobais />
+        <Routes>
+        <Route path='/' element={<Inicio/>}/>
+        </Routes>
+      </AppContainer>
+    </BrowserRouter>
   )
 }
 
