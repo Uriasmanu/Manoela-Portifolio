@@ -31,7 +31,6 @@ const ContainerTextos = styled.div`
 const Inicio = () => {
     return (
         <ContainerInicio>
-            <NavBar />
             <Caixa>
                 <ContainerTextos>
                     <h1>Olá, eu sou a Manoela Urias</h1>

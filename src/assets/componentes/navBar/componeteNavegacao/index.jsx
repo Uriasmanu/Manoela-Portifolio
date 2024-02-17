@@ -1,21 +1,24 @@
-import styled from "styled-components"
+import styled from "styled-components";
+import { Link } from "react-router-dom";
+
+const StyledLink = styled(Link)`
+    text-decoration: none; /* Remove o sublinhado */
+    color: #fff; /* Define a cor do texto */
+    font-size: 1.2rem;
+    font-weight: bold;
+    cursor: pointer;
+`;
 
 const Texto = styled.div`
-    P{
-        color : #fff; 
-        font-size: 1.5rem;
-        font-weight: bold;
-        cursor: pointer;
-        
-    }
+        width: 15%;
 `
 
-const ComponeteNavegacao = ({ texto }) => {
+const ComponeteNavegacao = ({ texto, to }) => {
     return (
         <Texto>
-            <p>{texto}</p>
+            <StyledLink to={to}>{texto}</StyledLink>
         </Texto>
-    )
+    );
 }
 
-export default ComponeteNavegacao
+export default ComponeteNavegacao;

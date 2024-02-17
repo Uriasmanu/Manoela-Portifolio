@@ -7,16 +7,16 @@ const ContainerNavBar = styled.div`
     width: 100%;
     height: auto;
     display: flex;
-    gap: 5%;
+    gap: 1%;
     justify-content: flex-end;
 `
 
 const NavBar = () => {
     return(
         <ContainerNavBar>
-            <ComponeteNavegacao texto = 'Sobre mim' />
-            <ComponeteNavegacao texto = 'Projetos' />
-            <ComponeteNavegacao texto = 'Contatos' />
+            <ComponeteNavegacao texto = 'Sobre mim' to='/' />
+            <ComponeteNavegacao texto = 'Projetos' to='/projetos'/>
+            <ComponeteNavegacao texto = 'Contatos' to='/contatos' />
         </ContainerNavBar>
     )
 }
