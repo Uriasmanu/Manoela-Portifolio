@@ -10,7 +10,7 @@ const StyledLink = styled(Link)`
 `;
 
 const Texto = styled.div`
-        width: 15%;
+        width: 12%;
 `
 
 const ComponeteNavegacao = ({ texto, to }) => {

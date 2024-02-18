@@ -7,7 +7,6 @@ const ContainerNavBar = styled.div`
     width: 100%;
     height: auto;
     display: flex;
-    gap: 1%;
     justify-content: flex-end;
 `
 
