@@ -17,7 +17,7 @@ const ProjectCard = styled.div`
   padding: 15px;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  width: 45%;
+  width: 30%;
   height: 30%;
 
   img {
