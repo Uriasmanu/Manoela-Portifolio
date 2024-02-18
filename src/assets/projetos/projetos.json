@@ -4,133 +4,133 @@
             "id": 1,
             "titulo": "Projeto 1",
             "descricao": "Este é o primeiro projeto que eu desenvolvi.",
-            "imagem": "./imagens/imagem1.png",
+            "imagem": "../../../public/imagens/imagem1.png",
             "link": "link_para_o_projeto_1"
         },
         {
             "id": 2,
             "titulo": "Projeto 2",
             "descricao": "Este é o segundo projeto que eu desenvolvi.",
-            "imagem": "imagens/imagem2.png",
+            "imagem": "../../../public/imagens/imagem2.png",
             "link": "link_para_o_projeto_2"
         },
         {
             "id": 3,
             "titulo": "Projeto 3",
             "descricao": "Este é o terceiro projeto que eu desenvolvi.",
-            "imagem": "imagens/imagem3.png",
+            "imagem": "../../../public/imagens/imagem3.png",
             "link": "link_para_o_projeto_3"
         },
         {
             "id": 4,
             "titulo": "Projeto 4",
             "descricao": "Este é o quarto projeto que eu desenvolvi.",
-            "imagem": "imagens/imagem4.png",
+            "imagem": "../../../public/imagens/imagem4.png",
             "link": "link_para_o_projeto_4"
         },
         {
             "id": 5,
             "titulo": "Projeto 5",
             "descricao": "Este é o quinto projeto que eu desenvolvi.",
-            "imagem": "imagens/imagem5.png",
+            "imagem": "../../../public/imagens/imagem5.png",
             "link": "link_para_o_projeto_5"
         },
         {
             "id": 6,
             "titulo": "Projeto 6",
             "descricao": "Este é o sexto projeto que eu desenvolvi.",
-            "imagem": "imagens/imagem6.png",
+            "imagem": "../../../public/imagens/imagem6.png",
             "link": "link_para_o_projeto_6"
         },
         {
             "id": 7,
             "titulo": "Projeto 7",
             "descricao": "Este é o sétimo projeto que eu desenvolvi.",
-            "imagem": "imagens/imagem7.png",
+            "imagem": "../../../public/imagens/imagem7.png",
             "link": "link_para_o_projeto_7"
         },
         {
             "id": 8,
             "titulo": "Projeto 8",
             "descricao": "Este é o oitavo projeto que eu desenvolvi.",
-            "imagem": "imagens/imagem8.png",
+            "imagem": "../../../public/imagens/imagem8.png",
             "link": "link_para_o_projeto_8"
         },
         {
             "id": 9,
             "titulo": "Projeto 9",
             "descricao": "Este é o nono projeto que eu desenvolvi.",
-            "imagem": "imagens/imagem9.png",
+            "imagem": "../../../public/imagens/imagem9.png",
             "link": "link_para_o_projeto_9"
         },
         {
             "id": 10,
             "titulo": "Projeto 10",
             "descricao": "Este é o décimo projeto que eu desenvolvi.",
-            "imagem": "imagens/imagem10.png",
+            "imagem": "../../../public/imagens/imagem10.png",
             "link": "link_para_o_projeto_10"
         },
         {
             "id": 11,
             "titulo": "Projeto 11",
             "descricao": "Este é o décimo primeiro projeto que eu desenvolvi.",
-            "imagem": "imagens/imagem11.png",
+            "imagem": "../../../public/imagens/imagem11.png",
             "link": "link_para_o_projeto_11"
         },
         {
             "id": 12,
             "titulo": "Projeto 12",
             "descricao": "Este é o décimo segundo projeto que eu desenvolvi.",
-            "imagem": "imagens/imagem12.png",
+            "imagem": "../../../public/imagens/imagem12.png",
             "link": "link_para_o_projeto_12"
         },
         {
             "id": 13,
             "titulo": "Projeto 13",
             "descricao": "Este é o décimo terceiro projeto que eu desenvolvi.",
-            "imagem": "imagens/imagem13.png",
+            "imagem": "../../../public/imagens/imagem13.png",
             "link": "link_para_o_projeto_13"
         },
         {
             "id": 14,
             "titulo": "Projeto 14",
             "descricao": "Este é o décimo quarto projeto que eu desenvolvi.",
-            "imagem": "imagens/imagem14.png",
+            "imagem": "../../../public/imagens/imagem14.png",
             "link": "link_para_o_projeto_14"
         },
         {
             "id": 15,
             "titulo": "Projeto 15",
             "descricao": "Este é o décimo quinto projeto que eu desenvolvi.",
-            "imagem": "imagens/imagem15.png",
+            "imagem": "../../../public/imagens/imagem15.png",
             "link": "link_para_o_projeto_15"
         },
         {
             "id": 16,
             "titulo": "Projeto 16",
             "descricao": "Este é o décimo sexto projeto que eu desenvolvi.",
-            "imagem": "imagens/imagem16.png",
+            "imagem": "../../../public/imagens/imagem16.png",
             "link": "link_para_o_projeto_16"
         },
         {
             "id": 17,
             "titulo": "Projeto 17",
             "descricao": "Este é o décimo sétimo projeto que eu desenvolvi.",
-            "imagem": "imagens/imagem17.png",
+            "imagem": "../../../public/imagens/imagem17.png",
             "link": "link_para_o_projeto_17"
         },
         {
             "id": 18,
             "titulo": "Projeto 18",
             "descricao": "Este é o décimo oitavo projeto que eu desenvolvi.",
-            "imagem": "imagens/imagem18.png",
+            "imagem": "../../../public/imagens/imagem18.png",
             "link": "link_para_o_projeto_18"
         },
         {
             "id": 19,
             "titulo": "Projeto 19",
             "descricao": "Este é o décimo nono projeto que eu desenvolvi.",
-            "imagem": "imagens/imagem19.png",
+            "imagem": "../../../public/imagens/imagem19.png",
             "link": "link_para_o_projeto_19"
         }
     ]
